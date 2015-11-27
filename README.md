@@ -1,6 +1,10 @@
 KACAK
 =====
 
+### Videos :
+https://www.youtube.com/watch?v=ctP8QHDMYQM&list=PL1BVM6VWlmWZOv9Hv8TV2v-kAlUmvA5g7&index=11
+
+
 Kacak is a tool that can enumerate users specified in the configuration file for windows based networks. It uses metasploit *smb_enumusers_domain* module in order to achieve this via msfrpcd service.  
 Details about msfrpcd service can be seen from metasploit documentation at https://github.com/rapid7/metasploit-framework/blob/master/documentation/msfrpc.txt . Kacak also parses mimikatz results.
 
